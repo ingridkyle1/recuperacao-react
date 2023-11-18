@@ -1,0 +1,27 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de cenoura",
+      "cobertura": "Margarina, Açúcar, Chocolate em pó solúvel, Leite",
+      "valor": "55",
+      "user_img": "1699381362195.png",
+      "id": 1
+    },
+    {
+      "nome": "Bolo de Prestigio",
+      "valor": "80",
+      "ingredientes": "bolo de prestigio",
+      "cobertura": "bolo de prestigio",
+      "user_img": "1700329872620.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Bolo de Morango com Leite Ninho ",
+      "valor": "100",
+      "ingredientes": "Morango, leite condensado, óleo, ovos, creme de leite ",
+      "cobertura": "Morangos e Leite condensado",
+      "user_img": "1700330258522.webp",
+      "id": 3
+    }
+  ]
+}
